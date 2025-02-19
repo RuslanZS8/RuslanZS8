@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RuslanZS8
+- 👋 Hi, I’m @Mershll
 - 👀 I’m interested in coding(just beginner)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
