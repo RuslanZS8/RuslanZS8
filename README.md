@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Mershll
-- 👀 I’m interested in coding(just beginner)
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me junusbaevruslan1804@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: bilmiyorum
-
-<!---
-RuslanZS8/RuslanZS8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A passionate software engineering student eager to apply and grow my coding skills.  Proficient in C/C++, Java, HTML, CSS, and JavaScript, with a basic understanding of machine learning principles.  My experience includes coursework, personal projects, and collaborative team projects, strengthening my analytical thinking and problem-solving abilities.
